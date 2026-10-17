@@ -1,0 +1,40 @@
+{
+  "subject": "An ancient Tamil farmer working with two bullocks in a paddy field, accompanied by his wife carrying harvested grain",
+
+  "setting": {
+    "place": "Rural Tamil Nadu agricultural village",
+    "era": "Chola-period Tamil society",
+    "time_of_day": "Early morning"
+  },
+
+  "lighting": "Soft natural sunrise light with gentle morning mist and warm highlights",
+
+  "camera": {
+    "shot": "Wide cinematic establishing shot",
+    "lens": "35mm",
+    "angle": "Eye-level"
+  },
+
+  "palette": [
+    "Earth brown",
+    "Paddy green",
+    "Warm cream",
+    "Soft gold"
+  ],
+
+  "style": "Photorealistic cinematic historical reconstruction, natural textures, authentic rural Tamil atmosphere",
+
+  "aspect_ratio": "16:9",
+
+  "avoid": [
+    "Modern buildings",
+    "Modern vehicles",
+    "Electric poles",
+    "Plastic objects",
+    "Modern clothing",
+    "Modern farming machinery",
+    "Text",
+    "Watermarks",
+    "Fantasy elements"
+  ]
+}
